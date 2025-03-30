@@ -12,13 +12,13 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url('https://wallpaperaccess.com/full/1142732.jpg') no-repeat center center/cover;
+  background: url('https://img.freepik.com/free-vector/digital-global-currency-icons-concept-background_1017-17455.jpg') no-repeat center center/cover;
   color: #3a3a3a;
   padding: 1rem;
 }
 
 .container {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.541);
   backdrop-filter: blur(10px);
   padding: 2rem;
   border-radius: 1rem;
@@ -27,6 +27,7 @@ body {
   max-width: 400px;
   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
   text-align: center;
+  opacity: 1;
 }
 
 h2 {
